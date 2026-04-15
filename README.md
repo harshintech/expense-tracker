@@ -1,7 +1,7 @@
  # [Expense Tracker](https://expense-tracker-plum-psi.vercel.app/)
 **Advanced Expense Tracker With Beautiful✨ UI**
 
-[For Live Demo Click Here🔗](https://expense-tracker-plum-psi.vercel.app/)
+[For Live Demo Click Here🔗](https://expense-trackers-wheat-phi.vercel.app/)
 
 ![Shopping Time](https://github.com/harshintech/Expense-Tracker/blob/main/frontend/expense-tracker/src/assets/images/Screenshot%202025-05-31%20150529.png)
 
@@ -39,7 +39,7 @@ An intuitive expense tracker app to help you manage and monitor your daily expen
 ---
 
 ## How to Use  
-1. Open the [live app](https://expense-tracker-plum-psi.vercel.app/)  
+1. Open the [live app](https://expense-trackers-wheat-phi.vercel.app/)  
 2. Add your expense with amount, category, and date  
 3. Track and manage your expenses in real-time  
 4. Review monthly summaries for better financial control  
